@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Zadanie 12</title>
+</head>
+<body>
+<TEXTAREA cols="70" rows="35">
+<html> 
+<body> 
+<div style="color:red;font-size:50px;"> 
+<script language="JavaScript"> 
+for(i=1;i<=10;i++) 
+{ 
+document.write("wyświetlam "+A+" raz"+" VOI"+"<br>"); 
+} 
+</script> 
+</div> 
+</body> 
+</html>
+</TEXTAREA>
+</body>
+</html>
